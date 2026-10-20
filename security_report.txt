@@ -1,0 +1,13 @@
+===== SOC SECURITY REPORT =====
+Successful logins: 2
+Failed logins: 6
+
+===== SUSPICIOUS LOGIN ATTEMPTS =====
+ALERT: 198.51.100.20 had 5 failed login attempts.
+
+Related failed login records:
+2026-10-20 09:01:00 | bob | 198.51.100.20 | FAILED
+2026-10-20 09:02:00 | bob | 198.51.100.20 | FAILED
+2026-10-20 09:03:00 | bob | 198.51.100.20 | FAILED
+2026-10-20 09:04:00 | bob | 198.51.100.20 | FAILED
+2026-10-20 09:05:00 | bob | 198.51.100.20 | FAILED
